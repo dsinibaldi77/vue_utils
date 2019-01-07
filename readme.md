@@ -1,19 +1,20 @@
-#Link, articoli e temi free utili Vue
+# Link, articoli e temi free utili Vue
 
-#Modern Frontend Developer
+
+# Modern Frontend Developer
 https://medium.com/tech-tajawal/modern-frontend-developer-n-2018-4c2072fa2b9c
 
-#bootstrap temi
+# bootstrap temi
 https://blackrockdigital.github.io/startbootstrap-heroic-features/
 https://blackrockdigital.github.io/startbootstrap-sb-admin/index.html
 https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html
 https://blackrockdigital.github.io/startbootstrap-modern-business/index.html
 
-#bootstrap estensioni
+# bootstrap estensioni
 http://getfuelux.com/index.html
 https://speckyboy.com/plugins-for-extending-bootstrap/
 
-#Vue template
+# Vue template
 https://cssauthor.com/vue-js-admin-templates/
 https://github.com/tookit/vue-material-admin
 https://www.creative-tim.com/bootstrap-themes/vuejs-themes
