@@ -42,6 +42,6 @@ https://github.com/bill1012/AdminESP
 https://github.com/vera0119/vue-admin
 https://github.com/TonyLuo/iview-vue-admin
 
-#Vue corsi
+# Vue corsi
 https://flaviocopes.com/tags/vue/
 https://vuecourse.com/preview/2/2-components/
